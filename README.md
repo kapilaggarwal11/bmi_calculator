@@ -2,7 +2,9 @@
 
 Body mass index = mass(in kg) / [height(in m)]^2
 
-![alt text](https://github.com/kapilaggarwal11/bmi_calculator/blob/main/images/Screenshot_20210117_133153.png =100*20)
-![alt text](https://github.com/kapilaggarwal11/bmi_calculator/blob/main/images/Screenshot_20210117_134942.png)
-![alt text](https://github.com/kapilaggarwal11/bmi_calculator/blob/main/images/Screenshot_20210117_134916.png)
-![alt text](https://github.com/kapilaggarwal11/bmi_calculator/blob/main/images/Screenshot_20210117_133200.png)
+<p float="left">
+  <img src="images/Screenshot_20210117_133153.png" width="200">
+  <img src="images/Screenshot_20210117_133200.png" width="200">
+  <img src="images/Screenshot_20210117_134916.png" width="200">
+  <img src="images/Screenshot_20210117_134942.png" width="200">
+</p>
