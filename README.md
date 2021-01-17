@@ -1,6 +1,6 @@
 # BMI Calculator
 
-Body mass index = mass(in kg) / [height(in m)]^2
+Body mass index calculator
 
 <p float="left">
   <img src="images/Screenshot_20210117_133153.png" width="200">
